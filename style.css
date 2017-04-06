@@ -1,0 +1,87 @@
+/*id's use hashtag*/
+
+body{
+	width: 960px;
+	background-color: #777;
+
+}
+
+
+#header {
+	position: absolute;
+    top: 0;
+    left: 35%;
+    width: 495px;
+    height: 80px;
+    margin: 0px auto;
+    background-color: #ebebeb;
+
+
+
+}
+
+#navigation{
+    position: relative;
+    top: 80px;
+    left: 238px;
+    background-color: #ebebeb;
+    width: 495px;
+    height: 80px;
+    margin-top: 50px;
+    margin: 0px auto;
+
+}
+
+.section{
+    position: absolute;
+    top: 35%;
+    left: 197px;
+    background-color: #ebebeb;
+    width: 495px;
+    margin-left: auto;
+    float: left;
+}
+
+.article{
+	background-color:#ebebeb;
+	width: 495px;
+
+}
+
+.headers{
+	background-color:#ebebeb;
+	width: 495px;
+
+
+}
+
+.paragraphs{
+	background-color: #ebebeb;
+	width: 495px;
+
+}
+
+.aside{
+	background-color: #ebebeb;
+    width: 495px;
+    height: 250px;
+    float: right;
+    margin-right: auto;
+    position: absolute;
+    top: 35%;
+    right: 150px;
+
+
+}
+
+.footer{
+	background-color: #ebebeb;
+    width: 400px;
+    position: absolute;
+    bottom: 0;
+    right: 450px;
+    height: 50px;
+	
+
+
+}
